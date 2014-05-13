@@ -1,5 +1,5 @@
 # ESA
-### ESA(餌) is an Expartise Sharing Apprication for small teams.
+### ESA(餌) is an Expartise Sharing Application for small teams.
 
 ## どんなもの？
 小さな開発チームのための、ドキュメント共有サービスです。
